@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /inc/
+Disallow: /tpl/
+Disallow: /assets/
+Allow: /assets/img/
+Allow: /assets/uploads/
+
+Sitemap: https://www.skal-agence.com/sitemap.xml
